@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "System.ServiceProcess"
+TargetType = "BeefLib"
+StartupObject = "System.ServiceProcess.Program"
