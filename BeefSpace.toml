@@ -1,5 +1,5 @@
 FileVersion = 1
-Projects = {"System.ServiceProcess" = {Path = "."}}
+Projects = {"System.ServiceProcess" = {Path = "."}, test_app = {Path = "test_app"}}
 
 [Workspace]
 StartupProject = "System.ServiceProcess"

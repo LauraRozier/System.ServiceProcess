@@ -1,0 +1,5 @@
+FileVersion = 1
+
+[Project]
+Name = "test_app"
+StartupObject = "test_app.Program"
